@@ -12,10 +12,10 @@ This is a group project about computer vision. Using python to develop a program
 | Dannie Zhao  | z5266355@ad.unsw.edu.au | Report                         |
 
 ## Preview
-- Velocity Estimation
+### Velocity Estimation
 
-- Driving Lane Detection
-
+### Driving Lane Detection
+![lane](https://user-images.githubusercontent.com/54277153/130095886-81633f84-4eae-4f3c-93bc-3434f7d0e42d.jpg)
 
 ## Dataset
 - [Dataset for Velocity Estimation](https://github.com/TuSimple/tusimple-benchmark) (click here to access datasets)
