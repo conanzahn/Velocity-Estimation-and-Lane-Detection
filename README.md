@@ -13,7 +13,7 @@ This is a group project about computer vision. Using python to develop a program
 
 ## Preview
 ### Velocity Estimation
-
+![velocity img](https://user-images.githubusercontent.com/54277153/130096476-4805aaa0-4e44-4e86-a788-5b91c5ea2869.jpg)
 ### Driving Lane Detection
 ![lane](https://user-images.githubusercontent.com/54277153/130095886-81633f84-4eae-4f3c-93bc-3434f7d0e42d.jpg)
 
